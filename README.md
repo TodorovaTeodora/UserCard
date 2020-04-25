@@ -1,2 +1,2 @@
 # UserCard
-UserCard design with JS/TS using decorator.
+Responsive UserCard with JS/TS using decorator.
